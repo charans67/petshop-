@@ -10,7 +10,7 @@ function Comp1() {
         <div className='intro'>
             <h1>Animal Trot Pet Shop</h1>
         </div>
-        <div>
+        <div className='comp1-search'>
             <input placeholder="search" ></input>
         </div>
     </div>
